@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "name": "challenge-10-oop",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidtait1996/challenge-10-OOP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidtait1996/challenge-10-OOP/issues"
+  },
+  "homepage": "https://github.com/davidtait1996/challenge-10-OOP#readme"
+}
